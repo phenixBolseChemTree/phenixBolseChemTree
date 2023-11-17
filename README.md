@@ -22,17 +22,17 @@
 
 ### Проекты:
 
-#### [Brain games]()
+#### [Brain games](https://github.com/phenixBolseChemTree/frontend-project-lvl1)
 Консольное приложение (мини-игра), разработанное с использованием библиотеки `readline-sync`.
 
-#### [Вычислитель отличий]()
+#### [Вычислитель отличий](https://github.com/phenixBolseChemTree/frontend-project-lvl2)
 Консольное приложение, позволяющее пользователю создавать дерево отличий в формате diff для двух файлов. Использовались технологии Node.js (объект `process` и модули `fs`).
 
-#### [RSS-агрегатор]()
-Веб-приложение для агрегации RSS-лент. Проект использует MVC модель. Деплой доступен по [ссылке - RSS-agregator](ссылка).
+#### [RSS-агрегатор](https://github.com/phenixBolseChemTree/frontend-project-11)
+Веб-приложение для агрегации RSS-лент. Проект использует MVC модель. Деплой - [RSS-agregator](https://frontend-project-11-whm4.vercel.app/).
 
-#### [Аналог чата Slack]()
-SPA-React-приложение, аналог чата Slack с использованием технологии WebSocket на библиотеке Socket.IO. Проект включает множество библиотек для форм, валидации, стилей и работы с API. Деплой доступен по [ссылке - mini-slack](ссылка) (деплой может занимать до 1 минуты).
+#### [Аналог чата Slack](https://github.com/phenixBolseChemTree/frontend-project-12)
+SPA-React-приложение, аналог чата Slack с использованием технологии WebSocket на библиотеке Socket.IO. Проект включает множество библиотек для форм, валидации, стилей и работы с API. Деплой - [mini-slack](https://hexlet-chat-2-mtxj.onrender.com) (развертывание деплоя может занимать до 1 минуты).
 
 
 ### Образование
