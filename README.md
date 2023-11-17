@@ -10,13 +10,8 @@
 
 ### Навыки:
 
-- JavaScript (ES6+)
-- HTML5, CSS
-- React, Redux-Toolkit, React-Router, Babel, ESLint, Prettier
-- API, WebSocket (через Socket.IO), Formik, Yup
-- React-Bootstrap
-- SPA, MVC
-- Jest
+![SVG изображение](https://svgshare.com/i/zos.svg)
+
 
 ### Проекты:
 
