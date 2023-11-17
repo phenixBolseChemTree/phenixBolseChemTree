@@ -10,8 +10,6 @@
 
 ### Навыки:
 
-![SVG изображение](https://svgshare.com/i/zos.svg)
-
 <a href='https://svgshare.com/s/zqd' ><img src='https://svgshare.com/i/zqd.svg' title='ivan_skills' /></a>
 
 ### Проекты:
