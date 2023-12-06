@@ -6,6 +6,8 @@
 
 Я молодой Frontend-разработчик с опытом программирования 1 года и 8 месяцев в IT. Мне 20 лет и я специализируюсь в области Frontend-разработки, в основном используя React. Я готов к удаленной и гибридной работе.
 
+Мой [CV](https://drive.google.com/file/d/1X0MH6O44XnwA6lCjpGtRnicEVHdDRMJL/view?usp=sharing)
+
 ## Опыт в IT
 
 ### Навыки:
