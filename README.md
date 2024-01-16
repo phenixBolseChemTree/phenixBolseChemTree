@@ -30,7 +30,7 @@ SPA-React-приложение, аналог чата Slack с использо�
 
 #### [Адаптивная верстака магазина на React](https://github.com/phenixBolseChemTree/reactLayout) 
 Адаптивная верстка от мобильной версии
-Деплой - [Responsive-react]([https://hexlet-chat-2-mtxj.onrender.com](https://reactlayout.onrender.com/))
+Деплой - [Responsive-react](https://reactlayout.onrender.com/)
 
 
 ### Образование
