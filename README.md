@@ -6,7 +6,7 @@
 
 Я молодой Frontend-разработчик с опытом программирования 1 года и 8 месяцев в IT. Мне 20 лет и я специализируюсь в области Frontend-разработки, в основном используя React. Я готов к удаленной и гибридной работе.
 
-## Мой [CV](https://drive.google.com/file/d/1X0MH6O44XnwA6lCjpGtRnicEVHdDRMJL/view?usp=sharing)
+## Мой [CV](https://drive.google.com/file/d/1b9L-HK8n2bKgXExrC-C9pDQQ-AwfMt1B/view?usp=sharing)
 
 ## Опыт в IT
 
@@ -28,7 +28,7 @@
 #### [Аналог чата Slack](https://github.com/phenixBolseChemTree/frontend-project-12)
 SPA-React-приложение, аналог чата Slack с использованием технологии WebSocket на библиотеке Socket.IO. Проект включает множество библиотек для форм, валидации, стилей и работы с API. Деплой - [mini-slack](https://hexlet-chat-2-mtxj.onrender.com) (развертывание деплоя может занимать до 1 минуты).
 
-#### [Адаптивная верстака магазина на React](https://github.com/phenixBolseChemTree/reactLayout) 
+#### [Адаптивная верстака магазина на React (В процессе)](https://github.com/phenixBolseChemTree/reactLayout) 
 Адаптивная верстка от мобильной версии
 Деплой - [Responsive-react](https://reactlayout.onrender.com/)
 
