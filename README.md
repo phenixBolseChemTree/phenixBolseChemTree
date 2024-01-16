@@ -28,10 +28,14 @@
 #### [Аналог чата Slack](https://github.com/phenixBolseChemTree/frontend-project-12)
 SPA-React-приложение, аналог чата Slack с использованием технологии WebSocket на библиотеке Socket.IO. Проект включает множество библиотек для форм, валидации, стилей и работы с API. Деплой - [mini-slack](https://hexlet-chat-2-mtxj.onrender.com) (развертывание деплоя может занимать до 1 минуты).
 
+#### [Адаптивная верстака магазина на React](https://github.com/phenixBolseChemTree/reactLayout) 
+Адаптивная верстка от мобильной версии
+Деплой - [Responsive-react]([https://hexlet-chat-2-mtxj.onrender.com](https://reactlayout.onrender.com/))
+
 
 ### Образование
 
-- Я закончиваю курс Frontend-разработчика от Hexlet с выполненными 4 проектами (их можно найти на [моем GitHub](https://github.com/phenixBolseChemTree))
+- Я закончил курс Frontend-разработчик от онлайн школы Hexlet с выполненными 4 учебными проектами [Сертификат](https://drive.google.com/file/d/18oIiMGHZEHFx8bLXKjrh44-Xkc-LHTLC/view?usp=sharing)
 - Заканчиваю среднее профессиональное образование по специальности "Информационные системы и программирование" (4 курс)
 
 ### Контакты
