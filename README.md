@@ -6,7 +6,7 @@
 
 Я молодой Frontend-разработчик в сфере IT с 2022 года. Мне 20 лет и я специализируюсь в области Frontend-разработки на React. Я готов к удаленной и гибридной работе.
 
-## Мой [CV](https://drive.google.com/file/d/1b9L-HK8n2bKgXExrC-C9pDQQ-AwfMt1B/view?usp=sharing)
+## Мой [CV](https://drive.google.com/file/d/1ogqb6tE_oduCBmTMDNaq1tj-c3vQwzQD/view?usp=sharing)
 
 ## Опыт в IT
 
