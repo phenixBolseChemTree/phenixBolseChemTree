@@ -2,13 +2,9 @@
 
 # Привет! 👋. На пути профессонального развития... React Frontend-Разработчик
 
-## О себе
+# Frontend Developer | React | Typescript. Я готов к удаленной и гибридной работе.
 
-## Frontend Developer | React | Typescript. Я готов к удаленной и гибридной работе.
-
-## Мой [CV](https://drive.google.com/file/d/1fiS5AaTyfjnAXecccg0bYULisyMQFxez/view?usp=sharing)
-
-## Опыт в IT
+# Мой [CV](https://drive.google.com/file/d/1fiS5AaTyfjnAXecccg0bYULisyMQFxez/view?usp=sharing)
 
 ### Навыки:
 
