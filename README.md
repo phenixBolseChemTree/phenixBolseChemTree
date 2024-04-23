@@ -1,16 +1,16 @@
 [![Ищу работу](https://img.shields.io/badge/Ищу_работу-зеленый)]()
 
-# Привет! 👋. На пути профессонального развития... React Frontend-Разработчик
+### Привет! 👋. На пути профессонального развития... React Frontend-Разработчик
 
-# Frontend Developer | React | Typescript. Я готов к удаленной и гибридной работе.
+Frontend Developer | React | Typescript. Я готов к удаленной и гибридной работе.
 
-# Мой [CV](https://drive.google.com/file/d/1fiS5AaTyfjnAXecccg0bYULisyMQFxez/view?usp=sharing)
+Мой [CV](https://drive.google.com/file/d/1fiS5AaTyfjnAXecccg0bYULisyMQFxez/view?usp=sharing)
 
-### Навыки:
+#### Навыки:
 
 <a href='https://svgshare.com/s/zqd' ><img src='https://svgshare.com/i/zqd.svg' title='ivan_skills' /></a>
 
-### Проекты:
+#### Проекты:
 
 #### [Brain games](https://github.com/phenixBolseChemTree/frontend-project-lvl1)
 Консольное приложение (мини-игра), разработанное с использованием библиотеки `readline-sync`.
