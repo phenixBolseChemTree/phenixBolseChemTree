@@ -10,7 +10,7 @@ Frontend Developer | React | Typescript. Я готов к удаленной и 
 
 Typescript, React, Redux, Tailwind
 
-#### Проекты:
+#### Проекты в онлайн школе Hexlet:
 
 #### [Brain games](https://github.com/phenixBolseChemTree/frontend-project-lvl1)
 Консольное приложение (мини-игра), разработанное с использованием библиотеки `readline-sync`.
