@@ -8,7 +8,7 @@ Frontend Developer | React | Typescript. Я готов к удаленной и 
 
 #### Навыки:
 
-<a href='https://svgshare.com/s/zqd' ><img src='https://svgshare.com/i/zqd.svg' title='ivan_skills' /></a>
+Typescript, React, Redux, Tailwind
 
 #### Проекты:
 
