@@ -4,7 +4,7 @@
 
 Frontend Developer | React | Typescript. Я готов к удаленной и гибридной работе.
 
-Мой [CV](https://drive.google.com/file/d/1fiS5AaTyfjnAXecccg0bYULisyMQFxez/view?usp=sharing)
+Мой [CV](https://drive.google.com/file/d/1pCepymtfICF-xymT9DFtY8OcswaPC23n/view?usp=sharing)
 
 #### Навыки:
 
