@@ -6,12 +6,7 @@
 
 Мой [CV]([https://drive.google.com/file/d/1pCepymtfICF-xymT9DFtY8OcswaPC23n/view?usp=sharing](https://docs.google.com/document/d/1PJIvx6_8XO1ffXgMqX6Gj87gpusXMLRO/edit?usp=sharing&ouid=101449377470748030376&rtpof=true&sd=true))
 
-#### Навыки:
-
-Typescript, React, Redux, Tailwind
-
 #### Рабочие проекты:
-
 
 #### Проекты в онлайн школе Hexlet 2022-2023:
 
